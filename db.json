@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "instrument": "ES",
+    "session": "RDR"
+  },
+  "data": [
+    {
+      "drOpen": 1483435800000,
+      "drClose": 1483439400000,
+      "idrHigh": 2258.25,
+      "idrLow": 2249.5,
+      "drHigh": 2259.5,
+      "drLow": 2248.25,
+      "idrDifference": 8.75,
+      "drSd": 0,
+      "drOpenCloseSd": 0,
+      "confirmationTime": 0,
+      "confirmationDirection": "None",
+      "confirmation": false,
+      "confirmationFalseTime": 0,
+      "wickConfirmationTime": 0,
+      "wickConfirmationDirection": "None",
+      "wickConfirmation": false
+    },
+    {
+      "drOpen": 1483522200000,
+      "drClose": 1483525800000,
+      "idrHigh": 2261.75,
+      "idrLow": 2256.25,
+      "drHigh": 2263.75,
+      "drLow": 2256.0,
+      "idrDifference": 5.5,
+      "drSd": 0,
+      "drOpenCloseSd": 0,
+      "confirmationTime": 1483531200000,
+      "confirmationDirection": "Long",
+      "confirmation": true
+    }
+  ]
+}
